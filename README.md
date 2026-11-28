@@ -43,7 +43,7 @@ time and skill between people who live a short walk apart.
 
 ## Live link
 
-Live web app: coming soon (Vercel deploy is a publish step).
+Live web app: https://skillswaplocal.vercel.app
 
 ## Figma design
 
